@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamaneki
 - 👀 I’m interested in Coding And Ais
 - 🌱 I’m currently learning Python & Javascript
-- 💞️ I’m looking to collaborate on NotMuch Right Now
+- 💞️ I’m looking to collaborate on Not Much Right Now
 - 📫 How to reach me Dm Me On Discord tamaneki#6872
 
 <!---
